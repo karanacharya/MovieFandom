@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Fandom</string>
+
+    <string name="try_again">Reconnect</string>
+
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="please_connect_to_the_internet_and_then_hit_reconnect">Please connect to the internet and then hit RECONNECT</string>
+    <string name="imageview_to_hold_the_movie_poster">ImageView to hold the movie poster</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="average_user_rating">Average User rating</string>
+    <string name="released_on">Released On</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="sort_by">Sort By</string>
+    <string name="image_view_to_hold_the_movie_poster">Image View to hold the movie poster</string>
+    <string name="reconnectString">Please connect to the internet and try again!</string>
+    <string name="noConnectivityManager">Connectivity Manager not found!</string>
+    <string name="noResults">No results received!</string>
+    <string name="offlineText">No Internet Connection.</string>
+</resources>
