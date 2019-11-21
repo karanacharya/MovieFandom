@@ -6,4 +6,4 @@ An app which shows you the list of popular movies and top-rated movies with many
   
  All the data is loaded in real-time from The Movie Database(TMDb).
  
- Part of the Android Developer-1 Nanaodegree by Udacity co-created with Google.
+ Part of the Android Developer-1 Nanodegree by Udacity co-created with Google.
